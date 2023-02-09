@@ -1,7 +1,8 @@
 ### Hi there 👋
 ## Hello Ijse..
-
+[Ijse] (https://www.ijse.lk/)
 - 🌱 I’m currently learning Software Engneering
+- - 📫 How to reach me: indeepakavishka@gmail.com
 <!--
 **KavishkaIndeepa/KavishkaIndeepa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
