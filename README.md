@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## Hello Ijse..
-[Ijse] (https://www.ijse.lk/)
+[IJSE] (https://www.ijse.lk/)
 - 🌱 I’m currently learning Software Engneering
 - - 📫 How to reach me: indeepakavishka@gmail.com
 <!--
