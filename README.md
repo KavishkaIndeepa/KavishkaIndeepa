@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Software Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KavishkaIndeepa/MyPortfolio](https://github.com/KavishkaIndeepa/MyPortfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/KavishkaIndeepa/MyPortfolio](https://kavishkaindeepa.github.io/My-Portfoloio-New/)
 
 - 📫 How to reach me **indeepakavishka@gmail.com**
 
